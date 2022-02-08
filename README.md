@@ -14,7 +14,3 @@
 
 
 
-- 🔭 I’m currently working on Photoshop
-- 🌱 I’m currently learning Adobe Premiere Pro
-- 👯 I’m looking to collaborate on any type of video editing
-

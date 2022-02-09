@@ -1,4 +1,5 @@
 - <h1 align="center">Hi 👋, I'm Paun</h1>
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=paun8&label=Profile%20views&color=0e75b6&style=flat" alt="paun8" /> </p>
 - 🔭 I’m currently working on Photoshop
 - 🌱 I’m currently learning Adobe Premiere Pro
 - 👯 I’m looking to collaborate on any type of video editing
